@@ -1,5 +1,6 @@
 
-#EXTINF:-1 group-title="Gabungan", Merge 2 file
+#EXTINF:-1 group-title="Gabungan", file 1
 https://raw.githubusercontent.com/jensuid/stream/master/appsplaylist.m3u
+#EXTINF:-1 group-title="Gabungan", file 2
 https://raw.githubusercontent.com/jensuid/stream/master/dbplaylist.m3u
 
