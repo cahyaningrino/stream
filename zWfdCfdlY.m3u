@@ -5,6 +5,14 @@
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000134/1024.m3u8
 #EXTINF:-1 tvg-id="NetTV.id" tvg-logo="https://i.imgur.com/S81Oaez.jpg" group-title="1-Lokal",NET TV HD
 http://boosstalive1-a.akamaihd.net/f894a6ebf56c4569bea516042afd1d55/ap-southeast-1/5664852414001/profile_0/chunklist.m3u8
+#EXTINF:0 tvg-logo="https://infokampus.news/wp-content/uploads/2017/11/Slide1-800x445.jpg" group-title="1-Lokal",RCTI
+http://202.80.222.171/000001/2/ch14041511532707866226/index.m3u8?virtualDomain=000001.live_hls.zte.com
+
+#EXTINF:0 tvg-logo="https://mncvision.id/userfiles/image/channel/channel_81.png" group-title="1-Lokal",GLOBAL TV
+http://202.80.222.174/000001/2/ch14041511505498448705/index.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:0 tvg-logo="https://cdn0-a.production.images.static6.com/TNyKJGjL3R8IJ638KYciyBa-G4M=/smart/filters:strip_icc():quality(90)/vidio-media-production/uploads/user/avatar/603610/mnctv-6bf8ca.jpg" group-title="1-Lokal",MNCTV
+http://202.80.222.182/000001/2/ch14041511111714365733/index.m3u8?virtualDomain=000001.live_hls.zte.com
+
 #EXTINF:-1 tvg-id="KompasTv.id" tvg-logo="https://i.imgur.com/ijGkA6Y.jpg?1" group-title="1-Lokal",Kompas TV
 http://202.80.222.182/000001/2/ch00000090990000001730/index.m3u8?virtualDomain=000001.live_hls.zte.com?Kompas-TV
 #EXTINF:-1 tvg-id="KompasTv.id" tvg-logo="https://i.imgur.com/ijGkA6Y.jpg?1" group-title="1-Lokal",Kompas TV-2
