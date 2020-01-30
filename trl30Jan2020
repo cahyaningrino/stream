@@ -1,0 +1,66 @@
+#EXTINF:0, RCTI
+http://id6.indostreamingtv.com/live/rcti/index.m3u8
+#EXTINF:0, MNC
+http://202.80.222.182/000001/2/ch14041511111714365733/index.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:0, GLOBAL TV
+http://202.80.222.175/000001/2/ch14041511505498448705/index.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:0, SCTV
+http://202.80.222.178/000001/2/ch15010918464887721048/index.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:0, INDOSIAR
+http://202.80.222.179/000001/2/ch15051810235326945512/index.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:0, ANTV
+http://210.210.155.35/qwr9ew/s/s07/01.m3u8
+#EXTINF:0, NET TV
+http://202.80.222.170/000001/2/ch00000090990000001723/index.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:0, TRANS TV
+http://202.80.222.174/000001/2/ch14041511552652254306/index.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:0, TRANS7
+http://202.80.222.174/000001/2/ch14041511545447343123/index.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:0, RAJAWALI TV
+http://202.80.222.170/000001/2/ch00000090990000001716/index.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:0, JAK TV
+http://202.80.222.169:80/000001/2/ch00000090990000001695/index.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:0, INEWS
+http://202.80.222.171:80/000001/2/ch14041511541532132975/index.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:0, BERITA SATU
+http://edge.linknetott.swiftserve.com/live/BsNew/amlst:beritasatunewsbs/playlist.m3u8
+#EXTINF:0, CNN INDONESIA
+https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
+#EXTINF:0, KOMPAS TV
+http://202.80.222.182/000001/2/ch00000090990000001730/index.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:0, TV ONE
+http://202.80.222.182/000001/2/ch14061215030555428637/index.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:0, JGO
+http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:jgoch/chunklist_b2288000.m3u8
+#EXTINF:0, HELLO TV HD
+http://playbackn20.aotg-video.astro.com.my/CH2/master_HELLO_8_05.m3u8
+#EXTINF:0,CELESTIAL MOVIES
+http://210.210.155.35/qwr9ew/s/s33/index.m3u8
+#EXTINF:0,FOX MOVIES
+http://streaming.i-sat.tv:8081/livestream/fox/playlist.m3u8
+#EXTINF:0,FOX MOVIES COMEDY
+http://161.0.157.9/PLTV/88888888/224/3221226800/03.m3u8
+#EXTINF:0,HBO HD
+http://185.102.219.150:25461/Bocah+kontol/BOTOL/29392?token=GkQJUBUMGwpAUwMCUQkHV11SVAAIAwIGAQxbAQJTVwRQUQBSA1AKUlUQTkQVREIABV08XlRDCgYLD1dSHRVBRQQUPlgCRgMSWgBQUVIIEklGRApaVUMKBQcNUVoEAQEOUUpDQQ8AGwoMRw4KShJVHRBVEVlRDW9QV08LAFQVDlgUCg0dRAtXbwZXDwcIVBJfRgFBGxIIQ0QQA0AgWV5aV0ErDlMPCFwQIV0PCxNeWQYFRApYXhIQd11LEgxDVkBfDghDHUQGUEQQUxYDRApeEAhcTxVTDkVaRksbQQsVd3hDSkNUHhBcXhFbDQhEChIRFxJPFVkSb0ZXShYRVFZZUxNEWxNWRhUSD1MaOQVfXgsBUxdeXw9DFggbU0EdFVlZDw8VXhQ7SVkGEFgIE1xcGA
+#EXTINF:0,KIX HD
+http://210.210.155.35/session/e269237c-7e3d-11e8-a249-b82a72d63267/uq2663/h/h07/01.m3u8
+#EXTINF:0,thrill HD
+http://210.210.155.35/session/c8a974dc-7e3d-11e8-bf09-b82a72d63267/qwr9ew/s/s34/01.m3u8
+#EXTINF:0,MY CINEMA
+http://210.210.155.35/x6bnqe/s/s31/S4/mnf.m3u8
+#EXTINF:0,AXN
+http://210.210.155.35/uq2663/h/h09/index.m3u8
+#EXTINF:0,DIVA
+http://210.210.155.35/uq2663/h/h11/index.m3u8
+#EXTINF:0,ZEE BISOKOP
+http://lihattv.com/?play=43413
+#EXTINF:0,CINEMA WORD
+http://210.210.155.35/uq2663/h/h04/index2.m3u8
+#EXTINF:0,HITS
+http://210.210.155.35/uq2663/h/h37/index2.m3u8
+#EXTINF:0, WOWOW MOVIES
+http://192.240.127.34:1935/live/cs27.stream/playlist.m3u8?wowzasessionid=1300220279
+#EXTINF:0, Sony One HD
+http://210.210.155.35/uq2663/h/h13/index.m3u8
+#EXTINF:0, K+
+http://210.210.155.35/uq2663/h/h08/index.m3u8 
