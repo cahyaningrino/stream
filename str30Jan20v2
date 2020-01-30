@@ -1,0 +1,46 @@
+#EXTINF:-1,rcti
+http://id6.indostreamingtv.com/live/rcti/index.m3u8
+#EXTINF:-1,MNCTV
+http://live.rctiplus.id/rctiplus/mnctv_720p.m3u8
+#EXTINF:-1,GLOBAL
+http://id6.indostreamingtv.com/live/tv1/index.m3u8
+#EXTINF:-1,GLOBALTV
+http://live.rctiplus.id/rctiplus/gtv_720p.m3u8
+#EXTINF:-1,RCTI
+http://live.rctiplus.id/rctiplus/rcti_720p.m3u8
+#EXTINF:-1,TRANS7 HD
+http://video.detik.com/trans7/smil:trans7.smil/chunklist_w140890010_b384000_sleng.m3u8
+#EXTINF:-1,TRANSTV HD
+http://video.detik.com/transtv/smil:transtv.smil/chunklist_w670976066_b384000_sleng.m3u8
+#EXTINF:-1,INDOSIAR
+http://id1.indostreamingtv.com/live/indosiar/index.m3u8
+#EXTINF:-1,INDOSIAR SD
+http://45.126.83.51/qwr9ew/s/s04/01.m3u8
+#EXTINF:-1,ANTV HD
+http://210.210.155.35/session/9d97b132-a94d-11e9-b311-c81f66f89318/qwr9ew/s/s102/02.m3u8
+#EXTINF:-1,ANTV
+http://id2.indostreamingtv.com/live/antv/index.m3u8
+#EXTINF:-1,NET TV
+http://id2.indostreamingtv.com/live/nettv/index.m3u8
+#EXTINF:-1,SCTV
+http://id1.indostreamingtv.com/live/sctv/index.m3u8
+#EXTINF:-1,TVONE
+http://id1.indostreamingtv.com/live/tv444/index.m3u8
+#EXTINF:-1,INEWS
+http://live.rctiplus.id/rctiplus/inews_720p.m3u8
+#EXTINF:-1,TV ONE 
+http://id1.indostreamingtv.com/live/tv444/index.m3u8
+#EXTINF:-1,RTV 
+http://45.126.83.51/qwr9ew/s/s12/01.m3u8
+#EXTINF:-1,TVRI Sports 
+http://210.210.155.35/session/69e800f6-97c0-11e9-888f-b82a72d63267/qwr9ew/s/s107/index.m3u8
+#EXTINF:-1,KOMPAS TV 
+http://202.80.222.182/000001/2/ch00000090990000001730/index.m3u8?virtualDomain=000001.live_hls.zte.com/oblack
+#EXTINF:-1,TVONE HD
+https://stream-03.sg1.dailymotion.com/sec(045Msia06uu92p_oLsoybHvyaPzWO5SK_lt5XnM-d2U)/dm/3/x619221/s/live-3.m3u8
+#EXTINF:-1,BERITA SATU HD
+http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsnew/chunklist_b1128000.m3u8
+#EXTINF:-1,cnn indo 
+https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
+#EXTINF:-1,MALEO
+http://stream1.ninmedia.tv/maleo/udp.stream_360p/playlist.m3u8
